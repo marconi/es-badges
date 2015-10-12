@@ -1,0 +1,106 @@
+[
+  {
+    "login": "skemb321",
+    "nick": "Alur",
+    "badges": [
+      "challenge/system-file-io:js",
+      "challenge/system-standard-streams:js",
+      "challenge/system-standard-streams:php",
+      "firefight/weekly-chief",
+      "teaching/movie-proposed",
+      "teaching/pair-programming:git"
+    ]
+  },
+  {
+    "login": "avnermiz",
+    "nick": "Avner",
+    "badges": []
+  },
+  {
+    "login": "bnx05",
+    "nick": "Banx",
+    "badges": [
+      "firefight/weekly-chief"
+    ]
+  },
+  {
+    "login": "Perados",
+    "nick": "Diego",
+    "badges": [
+      "challenge/system-file-io:py2",
+      "challenge/system-standard-streams:prolog",
+      "challenge/system-standard-streams:py2",
+      "challenge/system-standard-streams:py3",
+      "teaching/movie-proposed"
+    ]
+  },
+  {
+    "login": "user454322",
+    "nick": "Él Mexicano",
+    "badges": [
+      "challenge/system-standard-streams:go",
+      "teaching/challenge-created:system-standard-streams"
+    ]
+  },
+  {
+    "login": "gdomanguera",
+    "nick": "Gerard",
+    "badges": []
+  },
+  {
+    "login": "GermanMontejo",
+    "nick": "German",
+    "badges": [
+      "challenge/system-file-io:go",
+      "challenge/system-standard-streams:go"
+    ]
+  },
+  {
+    "login": "jaygel179",
+    "nick": "JayR",
+    "badges": [
+      "firefight/weekly-chief",
+      "challenge/system-file-io:py2",
+      "challenge/system-standard-streams:py2",
+      "teaching/pair-programming:git",
+      "challenge/system-unicode-basics:py2"
+    ]
+  },
+  {
+    "login": "kerwing",
+    "nick": "Kerwin",
+    "badges": [
+      "challenge/system-standard-streams:java",
+      "teaching/movie-proposed",
+      "teaching/movie-proposed:rest-api-with-spring"
+    ]
+  },
+  {
+    "login": "marconi",
+    "nick": "Marconi",
+    "badges": [
+      "challenge/system-file-io:haskell",
+      "challenge/system-standard-streams:go",
+      "challenge/system-standard-streams:haskell",
+      "challenge/system-unicode-basics:py2"
+    ]
+  },
+  {
+    "login": "mknecht",
+    "nick": "murat",
+    "badges": [
+      "challenge/system-standard-streams:bash",
+      "challenge/system-standard-streams:commonlisp",
+      "teaching/challenge-created:system-file-io",
+      "teaching/challenge-created:system-unicode-basics",
+      "teaching/movie-proposed"
+    ]
+  },
+  {
+    "login": "worldadventurer",
+    "nick": "Ravi",
+    "badges": [
+      "challenge/system-standard-streams:perl"
+    ]
+  }
+]
